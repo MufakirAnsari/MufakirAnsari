@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mufakir Ansari, a Tech Geek, and Ph.D. Candidate at The University of Toledo in Computer Science, specializing in HPC, Quantum Computing, AI & ML, with a degree from NIT Srinagar.<br><br>I thrive on solving complex challenges, am well-organized, and am passionate about staying current with tech trends. Whether you need a tech-savvy, business-minded problem solver for solo or team projects, I've got you covered.
+I'm Mufakir Ansari, a Tech Geek, and Graduate Candidate at The University of Toledo in Computer Science, specializing in HPC, Quantum Computing, AI & ML, with a degree from NIT Srinagar.<br><br>I thrive on solving complex challenges, am well-organized, and am passionate about staying current with tech trends. Whether you need a tech-savvy, business-minded problem solver for solo or team projects, I've got you covered.
 
 
 ## 🌐 Socials:
