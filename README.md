@@ -1,27 +1,159 @@
-# 💫 About Me:
-I'm Mufakir Ansari, a Tech Geek, and Graduate Candidate at The University of Toledo in Computer Science, specializing in HPC, Quantum Computing, AI & ML, with a degree from NIT Srinagar.<br><br>I thrive on solving complex challenges, am well-organized, and am passionate about staying current with tech trends. Whether you need a tech-savvy, business-minded problem solver for solo or team projects, I've got you covered.
+<p align="center">
+  <img src="assets/github-banner.png" alt="Mufakir Ansari – AI for Science, HPC, Representation Learning" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Ph.D.+Researcher+%E2%80%A2+AI+for+Science+%E2%80%A2+HPC;Building+systems+that+are+measurable%2C+reproducible%2C+and+scalable." alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mufakir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MufakirAnsari) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MufakirAnsari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MufakirAnsari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MufakirAnsari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MufakirAnsari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MufakirAnsari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://mufakiransari.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-e50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=8gNxoaAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://linkedin.com/in/mufakir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mufakirqamaransari@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/MufakirAnsari"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MufakirAnsari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧬 About
+
+I'm a **Ph.D. researcher in Computer Science & Engineering** at Wright State University, building scientific AI systems at the intersection of **representation learning**, **high-performance computing**, and **applied machine learning**.
+
+My work is grounded in real scientific and operational data — from 277K+ pathology image patches for cancer detection to 356 Ebola outbreak SRA runs on HPC clusters. I build research systems that are **measurable, reproducible, and scalable**.
+
+```
+📍 Ohio, USA    🎓 Ph.D. (Wright State) · M.S. (Toledo, GPA 3.91)    🏛️ B.Tech. (NIT Srinagar)
+```
+
+---
+
+### 🔬 Research & Publications
+
+| Status | Title | Venue |
+|:---:|---|---|
+| 📄 Under Review | **Dy-Part: Dynamic, Noise-Aware Scheduler for Hybrid Quantum-Classical Algorithms** | Quantum Machine Intelligence |
+| 📄 Submitted | **From Text to Returns: LLMs for Mutual Fund Portfolio Optimization** | Global AI Summit 2025 |
+| 📄 Under Review | **High-Sensitivity Detection of IDC via Domain-Specific SimCLR Pre-Training** | Signal, Image and Video Processing |
+| 📄 Under Review | **Comparative Analysis of DL Architectures for Probabilistic Electricity Price Forecasting** | Eng. Applications of AI |
+| ✅ Published | **Enhanced Intrusion Detection in IIoT: Autoencoder-Based Feature Learning** | IoTBDS 2025 |
+| ✅ Published | **Racing to Idle: Energy Efficiency of Matrix Multiplication on Heterogeneous Architectures** | Am. J. Comp. Sci. & Tech. |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Citations-28-e50914?style=flat-square&logo=googlescholar&logoColor=white" alt="Citations" />
+  <img src="https://img.shields.io/badge/h--index-3-e50914?style=flat-square&logo=googlescholar&logoColor=white" alt="h-index" />
+  <img src="https://img.shields.io/badge/i10--index-1-e50914?style=flat-square&logo=googlescholar&logoColor=white" alt="i10-index" />
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🧬 <a href="https://github.com/MufakirAnsari/DDFF-Framework">DDFF-Framework</a></h4>
+      <p>Distributional discriminative feature filtering for HDLSS biological datasets. Four complementary divergence metrics for interpretable biomarker discovery.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Biomedical_ML-e50914?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h4>🧫 <a href="https://github.com/MufakirAnsari/ebola-viral-rnaseq">Ebola RNA-seq Pipeline</a></h4>
+      <p>End-to-end HPC pipeline processing 356 SRA runs on SLURM. Dual quantification with HISAT2 + Kallisto, publication-grade outputs.</p>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/SLURM-003D6B?style=flat-square" /> <img src="https://img.shields.io/badge/HPC-0D1117?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🛡️ <a href="https://github.com/tryminime/minime">MiniMe</a></h4>
+      <p>Privacy-focused AI platform spanning backend, website, graph systems, docs, infra, and deployment. Multi-repo product architecture.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/Product_Platform-e50914?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h4>⚡ <a href="https://github.com/MufakirAnsari/Dy-Part">Dy-Part</a></h4>
+      <p>Dynamic, noise-aware scheduler for hybrid quantum-classical algorithms. Systems optimization for emerging compute architectures.</p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Quantum-5C4EE5?style=flat-square" /> <img src="https://img.shields.io/badge/Optimization-FF6B35?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,rust,cpp,java,bash&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / AI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML Frameworks" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square" />
+      <img src="https://img.shields.io/badge/SimCLR-e50914?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Knowledge</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & MLOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git&theme=dark" alt="Cloud" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/SLURM-003D6B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>HPC & Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/MPI-003366?style=flat-square" />
+      <img src="https://img.shields.io/badge/GPU_Clusters-0D1117?style=flat-square&logo=nvidia&logoColor=76B900" />
+      <img src="https://img.shields.io/badge/Distributed_Training-FF6B35?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MufakirAnsari&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=e50914&title_color=e50914&icon_color=e50914" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MufakirAnsari&theme=radical&hide_border=true&ring=e50914&fire=e50914&currStreakLabel=e50914" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MufakirAnsari&theme=radical&hide_border=true&layout=compact&title_color=e50914" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MufakirAnsari&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MufakirAnsari&style=for-the-badge&color=e50914&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Build systems that are measurable, reproducible, and grounded in real scientific data."</i>
+</p>
