@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Mufakir Ansari – AI for Science, HPC, Representation Learning" width="100%" />
+  <img src="https://raw.githubusercontent.com/MufakirAnsari/portfolio/main/assets/github-banner.png" alt="Mufakir Ansari – AI for Science, HPC, Representation Learning" width="100%" />
 </p>
 
 <p align="center">
