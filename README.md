@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MufakirAnsari/portfolio/main/assets/github-banner.png" alt="Mufakir Ansari – AI for Science, HPC, Representation Learning" width="100%" />
-</p>
+<h1 align="center">Mufakir Ansari</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Ph.D.+Researcher+%E2%80%A2+AI+for+Science+%E2%80%A2+HPC;Building+systems+that+are+measurable%2C+reproducible%2C+and+scalable." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Ph.D.+Researcher+%E2%80%A2+AI+for+Science+%E2%80%A2+HPC;Measurable.+Reproducible.+Scalable." alt="Typing SVG" />
   </a>
 </p>
 
